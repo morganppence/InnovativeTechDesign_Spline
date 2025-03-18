@@ -15,8 +15,8 @@ Youtube - Tutorials!
 # Demo
 https://github.com/user-attachments/assets/3c2625bc-d6ba-4447-b51b-2e335e474e50
 
-<script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.79/build/spline-viewer.js"></script>
-<spline-viewer url="https://prod.spline.design/X4z4u7Y33y1Vb4Af/scene.splinecode"></spline-viewer>
+Try it here: https://my.spline.design/untitled-d05fbef12203ab3a2dd9217bede652be/
+
 
 # Reflection
 This project expanded my horizons in what I can work with in the animation world which I had a lot of fun with! Using Spline, I'm excited to continue to learn about how I can create visually appealing animations and incorporate them into other things I'm working on!
